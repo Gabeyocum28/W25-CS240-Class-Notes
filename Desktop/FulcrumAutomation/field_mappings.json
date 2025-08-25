@@ -1,0 +1,10 @@
+{
+  "test_form": {
+    "Survey Date": "survey_date",
+    "Address": "property_address"
+  },
+  "global": {
+    "Survey Date": "survey_date",
+    "Address": "property_address"
+  }
+}
